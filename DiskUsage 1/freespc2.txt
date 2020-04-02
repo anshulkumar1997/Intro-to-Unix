@@ -1,0 +1,1 @@
+What is the command to display the disk space usage the current directory excluding the size of subdirectories
