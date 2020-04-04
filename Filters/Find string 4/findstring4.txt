@@ -1,0 +1,1 @@
+Display the lines from the file teknoscript.txt  that start with f.

@@ -1,0 +1,1 @@
+What is the command to list all the files/directories having “s” as the first character from the current directory?

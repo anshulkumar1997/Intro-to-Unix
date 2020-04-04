@@ -1,0 +1,1 @@
+Use the grep command to display the lines from the file teknoscript.txt that are comment lines (the comment lines are the lines that start with #).
