@@ -1,0 +1,1 @@
+Copy all the sub-directories and the files under COLORS directory to SHAPE.

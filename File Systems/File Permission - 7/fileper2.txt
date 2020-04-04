@@ -1,0 +1,1 @@
+Existing permission for file department.txt is rw- --- --- .Retain the same permission of user and other category. Add execute permission to group using octal notation or symbolic notation.

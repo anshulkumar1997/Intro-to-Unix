@@ -1,0 +1,1 @@
+Go to blended directory and copy the file pink to basic directory using relative path

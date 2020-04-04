@@ -1,0 +1,1 @@
+Existing permission for file emp.txt is rw- rw- rw-. Remove write permission from group using octal or symbolic notation

@@ -1,0 +1,1 @@
+Existing permission for file student.txt is rw- rw- rw-. Remove read permission from group using octal or symbolic notation.
