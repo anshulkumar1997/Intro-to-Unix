@@ -1,0 +1,40 @@
+Write a shell script to find the largest among three numbers. Get user inputs and display the result. 
+
+Sample Input 1:
+
+10 
+
+20
+
+30
+
+Sample Output 1:
+
+30 is largest number
+
+Sample Input 2:
+
+10 
+
+10
+
+10
+
+Sample Output 2:
+
+All the three numbers are equal
+
+Sample Input 3:
+
+10 
+
+10
+
+ 1
+
+Sample Output 3:
+
+I cannot figure out which number is largest
+
+
+

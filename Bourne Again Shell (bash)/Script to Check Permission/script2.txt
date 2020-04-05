@@ -1,0 +1,18 @@
+Write a shell script to test whether a given
+
+ file is directory or not
+ file has read permission or not
+ file has write permission or not
+ file has execute permission or not
+          
+Assume file name is given as command line argument.
+
+Sample Output:
+
+Write : yes
+
+Read : yes
+
+Execute : no
+
+Directory : no

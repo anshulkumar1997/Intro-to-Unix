@@ -1,0 +1,9 @@
+Write a shell script which displays the total number of words, characters, lines in a file. Assume the file name is given as command line argument.
+
+Sample Output:
+
+Number of characters in test.txt is 20
+
+Number of words in test.txt is 3
+
+Number of lines in test.txt is 3
